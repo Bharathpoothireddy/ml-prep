@@ -1,0 +1,11 @@
+order_id,customer_name,age,city,product,quantity,price,order_date
+1001,Alice,25,New York,Laptop,2,1200,2024-01-15
+1002,Bob,,London,Phone,1,800,2024-01-16
+1003,Charlie,35,,Tablet,3,450,2024-01-17
+1004,Alice,25,New York,Laptop,2,1200,2024-01-15
+1005,Diana,28,Paris,Phone,,700,2024-01-18
+1006,Eve,42,Berlin,Laptop,1,,2024-01-19
+1007,Frank,thirty,London,Tablet,2,450,2024-01-20
+1008,Grace,31,Paris,Phone,4,700,2024-01-21
+1009,Henry,,Berlin,Laptop,1,1200,2024-01-22
+1010,Ivy,29,New York,Tablet,2,450,2024-01-23

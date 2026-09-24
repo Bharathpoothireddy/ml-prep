@@ -1,4 +1,4 @@
-# Day 2 — Matplotlib & Seaborn Revision
+#  Matplotlib & Seaborn Revision
 
 ## Goal
 Re-activate visualization fundamentals by producing five core plot types 
